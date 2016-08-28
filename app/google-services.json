@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "375307604976",
+    "firebase_url": "https://chalakcustomer.firebaseio.com",
+    "project_id": "chalakcustomer",
+    "storage_bucket": "chalakcustomer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375307604976:android:5232b52af91b21e1",
+        "android_client_info": {
+          "package_name": "com.example.sujit.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375307604976-htddl8di0pvjnbfc6e3da9gflsid00cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9-MOlrYvjqIR_7UFc-hVv33q6tgUjRLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

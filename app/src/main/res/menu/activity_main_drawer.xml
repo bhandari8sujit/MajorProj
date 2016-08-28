@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_bookMyRide" android:icon="@drawable/ic_directions_car"
+            android:title="Book My Ride" />
+
+        <item android:id="@+id/nav_fareRate" android:icon="@drawable/ic_attach_money"
+            android:title="Fare Rates" />
+
+        <item android:id="@+id/nav_rateMyDriver" android:icon="@drawable/ic_stars"
+            android:title="Rate My Driver" />
+        <item android:id="@+id/nav_emergency" android:icon="@drawable/ic_call"
+            android:title="Emergency Contacts" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item android:id="@+id/nav_about" android:icon="@drawable/ic_report"
+                android:title="About" />
+
+            <item android:id="@+id/nav_settings" android:icon="@drawable/ic_assignment_return"
+                android:title="Logout" />
+
+
+        </menu>
+    </item>
+
+
+</menu>
