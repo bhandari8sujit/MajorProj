@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_directions_car.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_directions_car.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_settings_applications.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_settings_applications.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_call.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_call.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_stars.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_stars.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_attach_money.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_attach_money.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_report.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_report.xml"
+    }
+]

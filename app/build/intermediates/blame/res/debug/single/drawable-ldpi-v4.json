@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_settings_applications.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_settings_applications.png"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_call.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_call.png"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_report.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_report.png"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_stars.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_stars.png"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_directions_car.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_directions_car.png"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_attach_money.png",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_attach_money.png"
+    }
+]

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.4.0_3db1f253d42abf6c331e49188794fcfd3681436b.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_88183c92d2dcad48d1c1acca1777dc155d74db71.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d00b0b75fb2f3c1a1dfd9d69f6c6ee14780b0c5">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/instant-run_f9c89fb4dd8aa64981cf5a5b32d4bed41048f411.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_3a40f16480deb5169b0b0c80447cda3652920e15.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_0f8db39bb8fda607c117f57718c423ce29625835.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2901f78d19359d8283ef99deebc2dd1872f684fb.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_f709a15206ceb904344e0bedd9cb8fdfee0e19e6.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d3de1e946207667e76261421de0218f132960e0">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4.3_4724df1ce8677f6317958076aa7ee40464376dbd.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_563d622348dd6ecc3f49dc6ba32c823010a53ff0.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1492f530053acc0ee2431e1cadb0450762f2bb2f.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_06794697b555f068a7fb75b29f7dd6a74ee5dfbd.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.4.0_4de248111be62fbeb51b6dc1a1aa1e6eeb118c1f.jar" />
+    </item>
+    <item
+        jar="/home/sujit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_050fc3a62f44af86df4082cb700d5a4f82fb3a2b.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b6f70c0b310c21e8c7a2875993ea025a8126b5a6.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_f5725e6b4cd110e3c9b3ccad8efff156c88dfa3d.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="298e3818859f175a56289724b50353544ecaf176">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_08a6eb0bc36a29c5669ef26c14e28b17fb2c42a6.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.3.0_d8bef9bcabf2beb8d1e342fe3141cf05a623f7ee.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_6d904ce469e3ab01b8e1cc04c3c8aca554775e61.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_e3d34b50b17ac5b9108974e1d0a2aa74a950fc59.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.4.0_263ce11895fab84882e675a70290a4ea1bd4c2bb.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d23a396c09401e24fdebeec7ef075e444eeebc2d.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_831b9b17c99649ef677ede35fc2933256a26a144.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_d0978788bec23f7f79f970b7e56f5ee77cffe05d.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0a314cd4120d5c646848f437279bf336064d8764.jar" />
+    </item>
+    <item
+        jar="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_56d3444a6b949f2b833ff419ac7639c3c2d0317b.jar" />
+    </item>
+
+</items>

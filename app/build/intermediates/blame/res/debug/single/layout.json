@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/dialog_confirm.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/dialog_confirm.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/fragment_gallery.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/activity_information.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_information.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/info_window.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/layout/info_window.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/fragment_about.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/activity_view_info_of_ride.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_view_info_of_ride.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/dialog_profile.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/dialog_profile.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/fragment_emergency__contacts.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/fragment_emergency__contacts.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/dialog_drivercall.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/dialog_drivercall.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/dialog_distance.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/dialog_distance.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/dialog_forgotpass.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/dialog_forgotpass.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/res/layout/webview.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/sujit/AndroidStudioProjects/CustomerApp/app/build/intermediates/res/merged/debug/layout/activity_get__taxi.xml",
+        "source": "/home/sujit/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_get__taxi.xml"
+    }
+]

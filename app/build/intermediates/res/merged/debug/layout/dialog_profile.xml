@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:layout_margin="@dimen/activity_horizontal_margin"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:background="@color/colorPrimaryDark"
+>
+    <TextView
+        android:id="@+id/textViewusername"
+        android:textColor="@color/colorAccent"
+        android:text="Username :"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="4dp"
+        android:layout_toRightOf="@+id/textViewusername"
+        android:id="@+id/textusername1"
+        android:textColor="@color/colorAccent"
+        android:text="Username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewusername"
+        android:id="@+id/textViewName"
+        android:textColor="@color/colorAccent"
+        android:text="Full name :"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textusername1"
+        android:layout_marginLeft="4dp"
+        android:layout_toRightOf="@+id/textViewName"
+        android:id="@+id/textViewName1"
+        android:textColor="@color/colorAccent"
+        android:text="Full name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewName"
+        android:id="@+id/textViewLicenseNo"
+        android:textColor="@color/colorAccent"
+        android:text="License Number : "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewLicenseNo"
+        android:id="@+id/textViewAddress"
+        android:textColor="@color/colorAccent"
+        android:text="Address : "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@+id/textViewAddress"
+        android:layout_below="@+id/textViewLicenseNo"
+        android:id="@+id/textViewAddress1"
+        android:textColor="@color/colorAccent"
+        android:text="Address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewName1"
+        android:layout_toRightOf="@+id/textViewLicenseNo"
+        android:id="@+id/textViewLicenseNo1"
+        android:textColor="@color/colorAccent"
+        android:text="License Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewAddress"
+        android:id="@+id/textViewMobile"
+        android:textColor="@color/colorAccent"
+        android:text="Mobile Number : "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewAddress1"
+        android:layout_toRightOf="@+id/textViewMobile"
+        android:id="@+id/textViewMobile1"
+        android:textColor="@color/colorAccent"
+        android:text="Mobile Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewMobile"
+        android:id="@+id/textViewTaxiNo"
+        android:textColor="@color/colorAccent"
+        android:text="Taxi Number : "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/textViewMobile1"
+        android:layout_toRightOf="@+id/textViewMobile"
+        android:id="@+id/textViewTaxiNo1"
+        android:textColor="@color/colorAccent"
+        android:text="Taxi Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:layout_below="@+id/textViewTaxiNo"
+        android:id="@+id/buttonCall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"
+        android:text="Call Now"
+        android:textColor="@color/colorAccent" />
+
+</RelativeLayout>
